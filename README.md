@@ -64,13 +64,13 @@
 ## 🤝 Connect with me
 
 <p align="center">
-  
+
   <a href="https://www.linkedin.com/in/arif-anwar-6139b8214/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
 
-<a href="mailto:arifanwaraj12345@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-</a>
+  <a href="mailto:arifanwaraj12345@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+  </a>
 
 </p>
