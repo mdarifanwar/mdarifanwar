@@ -59,3 +59,18 @@
 </a>
 
 </p>
+
+
+## 🤝 Connect with me
+
+<p align="center">
+  
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
+<a href="mailto:your-email@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
+
+</p>
