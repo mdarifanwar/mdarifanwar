@@ -69,7 +69,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
 
-  <a href="mailto:arifanwaraj12345@gmail.com">
+  <a href="mailto:mdarifansari.dev@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
   </a>
 
